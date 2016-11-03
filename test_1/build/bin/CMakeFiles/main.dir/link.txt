@@ -1,1 +1,0 @@
-/usr/bin/cc      CMakeFiles/main.dir/hello.c.o  -o main  -L/tmp/youku/lib -rdynamic ../lib/libhello.so.1.0 -Wl,-rpath,/home/lin/mytest/cmake/test/build/lib:/tmp/youku/lib 

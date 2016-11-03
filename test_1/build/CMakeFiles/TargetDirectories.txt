@@ -1,2 +1,0 @@
-/home/lin/mytest/cmake/test/build/lib/CMakeFiles/hello.dir
-/home/lin/mytest/cmake/test/build/bin/CMakeFiles/main.dir
