@@ -1,0 +1,6 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8.4)
+MESSAGE("src dir")
+INCLUDE_DIRECTORIES(/tmp/youku/include)
+LINK_DIRECTORIES(/tmp/youku/lib)
+ADD_EXECUTABLE(main  hello.c)
+TARGET_LINK_LIBRARIES(main hello)
